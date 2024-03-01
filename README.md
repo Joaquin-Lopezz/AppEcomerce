@@ -47,6 +47,10 @@ Este proyecto implementa un sistema de **login** y un **E-commerce** donde los u
 4. inicia la aplicaion con: `npm run dev`
 5. Accede a la aplicación web en http://localhost:8080.
 
+## Agregar un Producto (Thunder client)
+1. se debera hacer localmente accediendo haciendo un POST a la  url localhost:8080/api/productos
+2. agregando un producto por el body (revisar Schema de producto)
+
 ## login ![image](https://github.com/Joaquin-Lopezz/AppEcomerce/assets/87286770/ed833248-8f90-4d94-bace-3b11fbcaab95)
 
 ## productos  ![image](https://github.com/Joaquin-Lopezz/AppEcomerce/assets/87286770/5dd62fcb-d665-44ce-bbfc-4009d1bc0747)
