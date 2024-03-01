@@ -23,21 +23,6 @@ Prodras acceder a la aplicacion web que se encuentra en la http://localhost:8080
 
 
 
-# Proyecto de E-commerce con Node.js
-
-Este proyecto implementa un sistema de **login** y un **E-commerce** donde los usuarios pueden agregar productos a un carrito de compras de manera local. Utiliza Node.js y varias dependencias populares de npm. Los usuarios pueden autenticarse utilizando sus credenciales locales.
-
-## Dependencias
-
-- **bcrypt** (v5.1.1): Librería para el hash de contraseñas.
-- **connect-mongo** (v5.1.0): Middleware para conectar Express.js a MongoDB y almacenar sesiones.
-- **express** (v4.18.2): Framework web para Node.js.
-- **express-handlebars** (v7.1.2): Motor de plantillas para Express.js.
-- **mongoose** (v8.0.3): ODM (Object-Document Mapper) para MongoDB.
-- **passport** (v0.7.0): Middleware de autenticación para Node.js.
-- **passport-github2** (v0.1.12): Estrategia Passport para autenticación OAuth con GitHub.
-- **passport-local** (v1.0.0): Estrategia Passport para autenticación local basada en usuario y contraseña.
-- **session** (v0.1.0): Middleware de sesión para Express.js.
 
 ## Ejecución
 
